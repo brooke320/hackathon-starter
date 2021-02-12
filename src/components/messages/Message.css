@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+.Messages {
+  background-color: rgb(219, 209, 209);
+  color: rgb(37, 7, 7);
+}
+.NewMessage {
+  text-align: left;
+  display: contents;
+  justify-content: center;
+  padding: 2px solid black;
+  size: 100px;
+}
+input {
+  color: black;
+  margin-top: 20px;
+}
+
+/* .ButtonDiv {
+  display: list-item;
+  margin-bottom: 20px;
+  padding: 20px solid black;
+}
+.Button {
+  position: relative;
+  top: -15px;
+  height: 30px;
+  text-align: center;
+  padding: 20px solid black; */
+
+/* background: #e65d0eaa;
+  padding: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  color: rgb(241, 9, 9);
+  font-size: 1rem;
+  width: 100%; */
